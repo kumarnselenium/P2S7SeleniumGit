@@ -11,6 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class SynchronizationTest {
 
+	//added some content to understnd the git diff
+	
 	public void exForImplicitWait() throws InterruptedException	 
 	{
 			System.setProperty("webdriver.chrome.driver", "/Users/narkandukuri/Downloads/chromedriver");
